@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(182, 182, 149);
+}
+.ti{
+    
+    background-color: rgb(3, 22, 3); 
+    border-radius: 4%;
+    border-bottom: 3px solid rgb(114, 28, 28);
+    border-top: 3px solid rgb(114, 28, 28);
+    width: 200px;
+    margin-left: 40%;
+    margin-top: 5%;
+    box-shadow: rgb(255, 0, 0, 0.5) 3px 3px 6px 0px inset, rgba(255, 0, 0, 0.5) -3px -3px 6px 1px inset;
+}
+.tex{
+    
+    background-color: rgb(3, 22, 3); 
+    border-radius: 4%;
+    border-bottom: 3px solid rgb(114, 28, 28);
+    border-top: 3px solid rgb(114, 28, 28);
+    margin-top: 4%;
+    box-shadow: rgb(255, 0, 0, 0.5) 3px 3px 6px 0px inset, rgba(255, 0, 0, 0.5) -3px -3px 6px 1px inset;
+    }
+.te1{
+    
+    background-color: rgb(3, 22, 3); 
+    border-radius: 4%;
+    border-bottom: 3px solid rgb(114, 28, 28);
+    border-top: 3px solid rgb(114, 28, 28);
+    margin-top: 5%;
+    box-shadow: rgb(255, 0, 0, 0.5) 3px 3px 6px 0px inset, rgba(255, 0, 0, 0.5) -3px -3px 6px 1px inset;
+}
+.te2{
+    
+    background-color: rgb(3, 22, 3); 
+    border-radius: 4%;
+    border-bottom: 3px solid rgb(114, 28, 28);
+    border-top: 3px solid rgb(114, 28, 28);
+    margin-top: 6%;
+    box-shadow: rgb(255, 0, 0, 0.5) 3px 3px 6px 0px inset, rgba(255, 0, 0, 0.5) -3px -3px 6px 1px inset;
+}
+.nav-menu{
+    list-style: none;
+    padding: 0;
+    background-color: red;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+
+}
+
+.nav-menu li a{
+ text-decoration: none;
+ color:white;
+ padding: 20px;
+ display: block;   
+}
+
+.nav-menu li{
+    display: inline-block;
+    text-align: center;
+}
+.nav-menu li a:hover{
+    background-color: black;
+}
+.c1{
+    font-family: 'Sigmar', cursive;
+    font-size: 25px;
+    color: white;
+    margin-top: -2px;
+}
+.c2{
+    font-family: 'Sigmar', cursive;
+    font-size: 25px;
+    color: white;
+    margin-top: -2px;
+}
+.c3{
+    font-family: 'Sigmar', cursive;
+    font-size: 25px;
+    color: white;
+    margin-top: -2px;
+}
+.c4{
+    font-family: 'Sigmar', cursive;
+    font-size: 25px;
+    color: white;
+    margin-top: -2px;
+}

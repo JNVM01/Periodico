@@ -1,0 +1,76 @@
+body{
+    background-color:  rgb(182, 182, 149);
+}
+  
+.nav-menu{
+    list-style: none;
+    padding: 0;
+    background-color: rgb(161, 161, 158);
+    width: 90%;
+    margin: auto;
+    position: absolute;margin-top: 11%;margin-left: 5%;
+border-radius: 12%;
+}
+
+.nav-menu li a{
+ text-decoration: none;
+ color:white;
+ padding: 20px;
+ display: block;   
+}
+
+.nav-menu li{
+    display: inline-block;
+    text-align: center;
+}
+.nav-menu li a:hover{
+    background-color: black;
+}
+.titulo{
+    height: 15%;
+    width: 65%;
+    background-color: black;
+    position: absolute;margin-top: 2%;margin-left: 15%;
+    color: white;
+    border-radius: 10%;
+    
+    
+}
+.tex1{
+    text-align: center;
+    font-size: 40px;
+}
+.asa{
+    height: 30%;
+    width: 25%;
+    background-color:black ;
+    position: absolute;margin-top: 20%;margin-left: 10%;
+    box-shadow: rgba(172, 172, 255, 0.25) 0px 30px 60px -12px inset, rgba(255, 177, 177, 0.3) 0px 18px 36px -18px inset;
+    color: white;
+}
+.omo{
+    height: 25%;
+    width: 25%;
+    background-color:black ;
+    position: absolute;margin-top: 40%;margin-left: 20%;
+    box-shadow: rgba(172, 172, 255, 0.25) 0px 30px 60px -12px inset, rgba(255, 177, 177, 0.3) 0px 18px 36px -18px inset;
+    color: white;
+}
+.use{
+    height: 15%;
+    width: 37%;
+    background-color:black ;
+    position: absolute;margin-top: 25%;margin-left: 35%;
+    box-shadow: rgba(172, 172, 255, 0.25) 0px 30px 60px -12px inset, rgba(255, 177, 177, 0.3) 0px 18px 36px -18px inset;
+    color: white;
+
+}
+.isi{
+    height: 15%;
+    width: 37%;
+    background-color:black ;
+    position: absolute;margin-top: 40%;margin-left: 35%;  
+    box-shadow: rgba(172, 172, 255, 0.25) 0px 30px 60px -12px inset, rgba(255, 177, 177, 0.3) 0px 18px 36px -18px inset;
+    color: white;
+}
+

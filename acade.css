@@ -1,0 +1,129 @@
+body{
+    background-color: rgb(182, 182, 149);
+}
+.ti{
+    height: 15%;
+    width: 50%;
+    position: absolute;margin-left: 23%;margin-top: 2%;
+    background-color: rgb(3, 22, 3);
+    text-align: center;
+    border-radius: 4%;
+    border: 3px solid rgb(114, 28, 28);
+}
+.nav-menu{
+    list-style: none;
+    padding: 0;
+    background-color: red;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+
+}
+
+.nav-menu li a{
+ text-decoration: none;
+ color:white;
+ padding: 20px;
+ display: block;   
+}
+
+.nav-menu li{
+    display: inline-block;
+    text-align: center;
+}
+.nav-menu li a:hover{
+    background-color: black;
+}
+.c1{
+    font-family: 'Sigmar', cursive;
+    font-size: 35px;
+    color: white;
+    margin-top: -2px;
+    
+}
+.tex{
+    height: 30%;
+    width: 30%;
+    position: absolute;margin-left: 65%;margin-top: 15%;
+    background-color: rgb(3, 22, 3); 
+    border-radius: 4%;
+    border-bottom: 3px solid rgb(114, 28, 28);
+    border-top: 3px solid rgb(114, 28, 28);
+    box-shadow: rgba(255, 198, 198, 0.16) 0px 1px 4px, rgb(254, 183, 183) 0px 0px 0px 3px;
+}
+.c2{
+    font-family: 'Ysabeau', sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-top: -3px;
+    height: 30%;
+    width: 30%;
+    position: absolute;margin-left: 69%;margin-top: 10%;
+    background-color: rgb(3, 22, 3); 
+    border-radius: 4%;
+    border-bottom: 3px solid rgb(114, 28, 28);
+    border-top: 3px solid rgb(114, 28, 28);
+    box-shadow: rgba(255, 198, 198, 0.16) 0px 1px 4px, rgb(254, 183, 183) 0px 0px 0px 3px;
+
+}
+.te1{
+    height: 30%;
+    width: 30%;
+    position: absolute;margin-left: 3%;margin-top: 15%;
+    background-color: rgb(3, 22, 3); 
+    border-radius: 4%;
+    border-bottom: 3px solid rgb(114, 28, 28);
+    border-top: 3px solid rgb(114, 28, 28);
+    box-shadow: rgba(255, 198, 198, 0.16) 0px 1px 4px, rgb(254, 183, 183) 0px 0px 0px 3px;
+
+}
+.c3{
+    font-family: 'Ysabeau', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-top: -3px;
+    height: 30%;
+    width: 30%;
+    position: absolute;margin-left: 35%;margin-top: 10%;
+    background-color: rgb(3, 22, 3); 
+    border-radius: 4%;
+    border-bottom: 3px solid rgb(114, 28, 28);
+    border-top: 3px solid rgb(114, 28, 28);
+    box-shadow: rgba(255, 198, 198, 0.16) 0px 1px 4px, rgb(254, 183, 183) 0px 0px 0px 3px;
+
+}
+.te2{
+    height: 40%;
+    width: 45%;
+    position: absolute;margin-left: 50%;margin-top: 35%;
+    background-color: rgb(3, 22, 3);  
+    border-radius: 4%;
+    border-bottom: 3px solid rgb(114, 28, 28);
+    border-top: 3px solid rgb(114, 28, 28);
+    box-shadow: rgba(255, 198, 198, 0.16) 0px 1px 4px, rgb(254, 183, 183) 0px 0px 0px 3px;
+
+}
+.c4{
+    font-family: 'Ysabeau', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-top: -3px;height: 30%;
+    width: 30%;
+    position: absolute;margin-left: 2%;margin-top: 10%;
+    background-color: rgb(3, 22, 3); 
+    border-radius: 4%;
+    border-bottom: 3px solid rgb(114, 28, 28);
+    border-top: 3px solid rgb(114, 28, 28);
+    box-shadow: rgba(255, 198, 198, 0.16) 0px 1px 4px, rgb(254, 183, 183) 0px 0px 0px 3px;
+
+}
+#imf{
+    height: 25%;
+    width: 25%;
+    position: absolute;margin-left: 50%;margin-top: 28%;
+}
+#vide{
+    height: 40%;
+    width: 40%;
+    position: absolute;margin-left: 5%;margin-top: 28%;
+}

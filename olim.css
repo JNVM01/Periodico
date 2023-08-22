@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(182, 182, 149);
+}
+.ti1{
+    height: 15%;
+    width: 50%;
+    position: absolute;margin-left: 23%;margin-top: 2%;
+    background-color: rgb(3, 22, 3);
+    text-align: center;
+    border-radius: 4%;
+    border: 3px solid rgb(114, 28, 28);
+    box-shadow: rgba(156, 156, 255, 0.25) 0px 30px 60px -12px inset, rgba(221, 235, 115, 0.3) 0px 18px 36px -18px inset;
+}
+.nav-menu{
+    list-style: none;
+    padding: 0;
+    background-color: red;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+
+}
+
+.nav-menu li a{
+ text-decoration: none;
+ color:white;
+ padding: 20px;
+ display: block;   
+}
+
+.nav-menu li{
+    display: inline-block;
+    text-align: center;
+}
+.nav-menu li a:hover{
+    background-color: black;
+}
+.c1{
+    font-family: 'Sigmar', cursive;
+    font-size: 35px;
+    color: white;
+    margin-top: -2px;
+}
+.tex2{
+    height: 45%;
+    width: 45%;
+    position: absolute;margin-left: 2%;margin-top: 15%;
+    background-color: rgb(3, 22, 3);
+    border-radius: 4%;
+    border-bottom: 3px solid rgb(114, 28, 28);
+    border-top: 3px solid rgb(114, 28, 28);
+    box-shadow: rgba(156, 156, 255, 0.25) 0px 30px 60px -12px inset, rgba(221, 235, 115, 0.3) 0px 18px 36px -18px inset;
+}
+.c2{
+    font-family: 'Ysabeau', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-top: -3px;
+}
+#im1{
+    height: 45%;
+    width: 45%;
+    position: absolute;margin-left: 50%;margin-top: 15%;
+}
